@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.title-text {
+  font-weight: 900;
+}
+
+.price-text {
+  color: green;
+  font-weight: 800;
+}
